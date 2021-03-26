@@ -1,0 +1,96 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Schematic Library Report
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<font face="Arial" size="2">
+<h1>
+Schematic Library Report
+</h1>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Name
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C:\Users\hanif\Dropbox\ReliSource AirOne Protoytpe\Proteus Schematic  (Fahim)\ironhide\PCB\MotherBoard\AirOne_MotherBoard.SchLib
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Date/Time
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Tuesday, September 22, 2020 4:20:22 PM
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Size
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+376832
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Components
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+41
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Component List
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1050170001, 24LC1025-I/SN, ASMB-LTC2-0A335, BSS138K, CL05A104KP5NNNC, CL05A105KP5NNNC, CL05B103KP5NNNC, CL05C120JB5NNNC, CL05C8R2CB5NNNC, CL21A106KPFNNNE, ECS-.327-CDX-1128, JS202011JAQN, LTST-C235KGKRKT, MMZ1608Y121BTA00, NCP161ASN330T1G, NUP4114UCW1T2G, NVR4003NT3G, PTS526SKG15SMTR2LFS, RC0402FR-07130KL, RC0402FR-071RL, RC0402FR-07324KL, RC0402JR-07100KL, RC0402JR-07100RL, RC0402JR-0710KL, RC0402JR-07120RL, RC0402JR-071K2L, RC0402JR-071KL, RC0402JR-072K2L, RC0402JR-07330RL, RC0402JR-074K7L, RC1206JR-0710RL, RC1206JR-0710RL (2), S2B-ZR-SM4A-TF(LF)(SN), S3B-ZR-SM4A-TF(LF)(SN), S4B-ZR-SM4A-TF(LF)(SN), S5B-ZR-SM4A-TF(LF)(SN), S6B-ZR-SM4A-TF(LF)(SN), S7B-ZR-SM4A-TF(LF)(SN), SSM3K36TU,LF, STM32L412KBT6, Test Point
+</font>
+</td>
+</tr>
+</table>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+</font>
+</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
