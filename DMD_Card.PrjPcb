@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BNCOFNQK
 
 [Document4]
+DocumentPath=Flash_EEPROM_Memory.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PAPZTSNI
+
+[Document5]
 DocumentPath=DMD_Output_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNTGBHMC
 
-[Document5]
+[Document6]
 DocumentPath=DMD_Card.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=DMD_Card.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=Power_Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDYJQZKN
 
-[Document8]
+[Document9]
 DocumentPath=WiFi_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSFAPUTR
 
-[Document9]
+[Document10]
 DocumentPath=Rs485_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNYSKADA
 
-[Document10]
+[Document11]
 DocumentPath=Rs232_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HZQGKORC
 
-[Document11]
+[Document12]
 DocumentPath=USB_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUJPBBZV
 
-[Document12]
+[Document13]
 DocumentPath=DMD_Card.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMHRAQBA
 
-[Document13]
+[Document14]
 DocumentPath=DMD_Card.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -263,122 +280,126 @@ DocumentPath=Release\BOM\Bill of Materials-DMD_Card.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.DRR
+DocumentPath=Project Outputs for DMD_Card\Design Rule Check - DMD_Card.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Release\NC Drill\DMD_Card.DRR
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.EXTREP
+DocumentPath=Release\NC Drill\DMD_Card.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Release\Gerber\DMD_Card.EXTREP
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBL
+DocumentPath=Release\Gerber\DMD_Card.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBO
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBP
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBS
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GD1
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GG1
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GKO
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM1
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM10
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM12
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM13
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM15
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM29
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GPB
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM29
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GPT
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTL
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTO
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTP
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTS
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.LDP
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.REP
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.RUL
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.REP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Release\Gerber\DMD_Card.RUL
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Release\ExportSTEP\DMD_Card.step
+DocumentPath=Release\Gerber\DMD_Card.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.TXT
+DocumentPath=Release\ExportSTEP\DMD_Card.step
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for DMD_Card\DMD_Card.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
 DocumentPath=Release\NC Drill\DMD_Card.TXT
 DItemRevisionGUID=
 
