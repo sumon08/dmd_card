@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BMHRAQBA
+DocumentUniqueId=WKGTVDUR
 
 [Document14]
 DocumentPath=DMD_Card.PCBDwf
@@ -284,123 +284,95 @@ DocumentPath=Project Outputs for DMD_Card\Design Rule Check - DMD_Card.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Release\NC Drill\DMD_Card.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Release\Gerber\DMD_Card.EXTREP
 DItemRevisionGUID=
 
+[GeneratedDocument5]
+DocumentPath=Release\Gerber\DMD_Card.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Release\Gerber\DMD_Card.GBO
+DItemRevisionGUID=
+
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBL
+DocumentPath=Release\Gerber\DMD_Card.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBO
+DocumentPath=Release\Gerber\DMD_Card.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBP
+DocumentPath=Release\Gerber\DMD_Card.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GBS
+DocumentPath=Release\Gerber\DMD_Card.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GD1
+DocumentPath=Release\Gerber\DMD_Card.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GG1
+DocumentPath=Release\Gerber\DMD_Card.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GKO
+DocumentPath=Release\Gerber\DMD_Card.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM1
+DocumentPath=Release\Gerber\DMD_Card.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM10
+DocumentPath=Release\Gerber\DMD_Card.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM12
+DocumentPath=Release\Gerber\DMD_Card.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM13
+DocumentPath=Release\Gerber\DMD_Card.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM15
+DocumentPath=Release\Gerber\DMD_Card.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GM29
+DocumentPath=Release\Gerber\DMD_Card.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GPB
+DocumentPath=Release\NC Drill\DMD_Card.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GPT
+DocumentPath=Release\Gerber\DMD_Card.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
 DocumentPath=Release\Gerber\DMD_Card.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument23]
 DocumentPath=Release\ExportSTEP\DMD_Card.step
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Project Outputs for DMD_Card\DMD_Card.TXT
+[GeneratedDocument24]
+DocumentPath=Release\NC Drill\DMD_Card.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Release\NC Drill\DMD_Card.TXT
+[GeneratedDocument25]
+DocumentPath=Release\Pick Place\Pick Place for DMD_Card.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -416,6 +388,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
