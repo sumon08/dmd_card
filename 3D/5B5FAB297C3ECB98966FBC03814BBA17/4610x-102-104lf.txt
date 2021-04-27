@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-18112016-086752";"";
+"REFERENCE";"4610X-102-104LF";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"10-18112016-0867525ZLBFEXB80OWPPSG0STJ2JDMC";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"10 pin SIL Bus Array 5 resistors 100K 2%";"";
+"SUPPLIER";"BOURNS";"";
+"DESIGN";"10 pin SIL Bus Array 5 resistors 100K 2%";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
