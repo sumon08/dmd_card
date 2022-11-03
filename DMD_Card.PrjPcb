@@ -344,11 +344,11 @@ GenerateClassCluster=0
 DocumentUniqueId=XHGRZJDJ
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DMD_Card\Design Rule Check - DMD_Card.html
+DocumentPath=Project Outputs for DMD_Card\BOM\Bill of Materials-DMD_Card.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DMD_Card\Net Status - DMD_Card.html
+DocumentPath=Project Outputs for DMD_Card\Design Rule Check - DMD_Card.html
 DItemRevisionGUID=
 
 [Parameter1]
