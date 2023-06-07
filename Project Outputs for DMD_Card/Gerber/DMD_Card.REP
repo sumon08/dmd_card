@@ -2,6 +2,76 @@
 FileName = DMD_Card.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Solder
+      File : DMD_Card.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D36
+    D37
+    D39
+    D40
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DMD_Card.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : DMD_Card.GTP
 
@@ -30,23 +100,26 @@ Used DCodes :
     D31
     D32
     D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : DMD_Card.GTO
+Generating : Bottom Overlay
+      File : DMD_Card.GBO
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
 *************************************************************
 
 *************************************************************
@@ -59,21 +132,15 @@ Generating : Bottom Layer
 
 
 Used DCodes :
+    D10
+    D12
     D14
-    D15
-    D44
-    D45
-    D55
     D56
-    D58
-    D59
+    D57
     D61
-    D63
+    D62
     D64
-    D65
     D66
-    D67
-    D68
     D69
     D70
     D71
@@ -87,6 +154,37 @@ Used DCodes :
     D79
     D80
     D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DMD_Card.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -99,8 +197,9 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D10
+    D12
     D14
-    D15
     D17
     D18
     D19
@@ -118,14 +217,17 @@ Used DCodes :
     D31
     D32
     D33
-    D44
-    D45
-    D55
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
     D56
     D57
-    D58
-    D59
-    D60
     D61
     D62
     D63
@@ -144,84 +246,11 @@ Used DCodes :
     D76
     D77
     D78
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DMD_Card.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
     D79
     D80
     D81
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : DMD_Card.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D24
-    D25
-    D26
-    D27
-    D28
-    D30
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
+    D82
+    D83
 *************************************************************
 
 *************************************************************
@@ -236,18 +265,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : DMD_Card.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D13
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : DMD_Card.GBP
 
@@ -259,8 +276,46 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : DMD_Card.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D73
+    D77
     D79
     D80
     D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : DMD_Card.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D69
+    D72
+    D73
+    D75
+    D78
+    D79
+    D81
+    D82
+    D83
 *************************************************************
 

@@ -343,12 +343,123 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHGRZJDJ
 
+[Document19]
+DocumentPath=Flash_EEPROM_Memory.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PAPZTSNI
+
+[Document20]
+DocumentPath=Flash_EEPROM_Memory.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=USB_Interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AUJPBBZV
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DMD_Card\BOM\Bill of Materials-DMD_Card.xlsx
+DocumentPath=Project Outputs for DMD_Card\NC Drill\DMD_Card.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DMD_Card\Design Rule Check - DMD_Card.html
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DMD_Card\NC Drill\DMD_Card.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DMD_Card\Gerber\DMD_Card.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DMD_Card\NC Drill\DMD_Card.TXT
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1361,29 +1472,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=DATA0M|NetColor=clLime
-Net2=NetName=DATA10M|NetColor=clLime
-Net3=NetName=DATA11M|NetColor=clLime
-Net4=NetName=DATA1M|NetColor=clLime
-Net5=NetName=DATA2M|NetColor=clLime
-Net6=NetName=DATA3M|NetColor=clLime
-Net7=NetName=DATA4M|NetColor=clLime
-Net8=NetName=DATA5M|NetColor=clLime
-Net9=NetName=DATA6M|NetColor=clLime
-Net10=NetName=DATA7M|NetColor=clLime
-Net11=NetName=DATA8M|NetColor=clLime
-Net12=NetName=DATA9M|NetColor=clLime
-Net13=NetName=DIR|NetColor=$00FF0066
-Net14=NetName=MEM_HOLD|NetColor=$00FF6E6E
-Net15=NetName=MEM_MISO|NetColor=$00FF6E6E
-Net16=NetName=MEM_MOSI|NetColor=$00FF6E6E
-Net17=NetName=MEM_NSS|NetColor=$00FF6E6E
-Net18=NetName=MEM_SCK|NetColor=$00FF6E6E
-Net19=NetName=MEM_WP|NetColor=$00FF6E6E
-Net20=NetName=RXD|NetColor=$00FF0066
-Net21=NetName=TXD|NetColor=$00FF0066
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
