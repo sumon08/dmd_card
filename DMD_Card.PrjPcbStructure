@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=DMD_Output_Interface.SchDoc
+Record=TopLevelDocument|FileName=DMD_Output_Interface.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DMD_Output_Interface.SchDoc|FileName=enc.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=DMD_Output_Interface.SchDoc|FileName=Flash_EEPROM_Memory.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DMD_Output_Interface.SchDoc|FileName=Microprocessor_Unit.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DMD_Output_Interface.SchDoc|FileName=Power_Management.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DMD_Output_Interface.SchDoc|FileName=Rs485_Interface.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=DMD_Output_Interface.SchDoc|FileName=USB_Interface.SchDoc|SheetNumber=8
